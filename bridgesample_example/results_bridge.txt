@@ -1,0 +1,16 @@
+> summary(bridge_H3)
+
+Bridge sampling log marginal likelihood estimate 
+(method = "warp3", repetitions = 1):
+
+ -983.9352
+
+
+
+
+> summary(bridge_H1)
+
+Bridge sampling log marginal likelihood estimate 
+(method = "warp3", repetitions = 1):
+
+ -984.0702
